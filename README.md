@@ -6,7 +6,7 @@ If you refer to this ML model, please cite the below.
 ```
 @unpublished{p7,
   author = "Deven Panchal",
-  title  = "Designing and Deploying AI enabled Network Operations services in the network using Acumos, DCAE and ONAP",
+  title  = "Easily Designing and Deploying AI enabled Network Operations services",
   year   = 2022
 }
 ```
@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022d). Designing and Deploying AI enabled Network Operations services in the network using Acumos, DCAE and ONAP. Unpublished manuscript.
+Panchal, D. (2022d). Easily Designing and Deploying AI enabled Network Operations services. Unpublished manuscript.
 ```
 and 
 ```
