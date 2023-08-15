@@ -7,7 +7,7 @@ If you refer to this ML model, please cite the below.
 @unpublished{p7,
   author = "Deven Panchal",
   title  = "Easily Designing and Deploying AI enabled Network and Telecom Services",
-  year   = 2022
+  year   = 2023
 }
 ```
 and
@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2022d). Easily Designing and Deploying AI enabled Network and Telecom Services. Unpublished manuscript.
+Panchal, D. (2023d). Easily Designing and Deploying AI enabled Network and Telecom Services. Unpublished manuscript.
 ```
 and 
 ```
