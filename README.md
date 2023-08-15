@@ -5,8 +5,8 @@ If you refer to this ML model, please cite the below.
 ### Bibtex:
 ```
 @unpublished{p7,
-  author = "Deven Panchal",
-  title  = "Easily Designing and Deploying AI enabled Network and Telecom Services",
+  author = "Deven Panchal and Isilay Baran and Dan Musgrove and David Lu",
+  title  = "Easily Designing and Deploying AI enabled Network and Telecom services",
   year   = 2023
 }
 ```
@@ -23,7 +23,7 @@ version = {1.0.0}
 
 ### APA:
 ```
-Panchal, D. (2023d). Easily Designing and Deploying AI enabled Network and Telecom Services. Unpublished manuscript.
+Panchal, D., Baran, I., Musgrove, D., & Lu, D. (2023). Easily Designing and Deploying AI enabled Network and Telecom services. Unpublished manuscript.
 ```
 and 
 ```
