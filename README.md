@@ -1,4 +1,5 @@
 # Network Traffic Analysis
+[![DOI](https://zenodo.org/badge/511943321.svg)](https://zenodo.org/doi/10.5281/zenodo.13836096)
 
 If you refer to this ML model, please cite the below.
 
